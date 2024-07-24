@@ -1,0 +1,5 @@
+/* CSS to hide horizontal overflow */
+body {
+    overflow-x: hidden;
+    /* Hide horizontal overflow */
+}
